@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/remove-element/
+# Slow and Fast Pointers
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         slow = 0

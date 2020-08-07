@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/palindrome-number/
+# Two Pointers
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         if x < 0:

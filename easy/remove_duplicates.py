@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+# Slow and Fast Pointers
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         slow = 0

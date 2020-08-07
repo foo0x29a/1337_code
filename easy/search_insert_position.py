@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/search-insert-position/
+# Binary Search
 import math
 class Solution:
     def search(self, nums, target, start, end):

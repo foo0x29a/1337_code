@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/implement-strstr/
+# Sliding Window
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
         sz = len(needle)
